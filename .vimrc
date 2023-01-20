@@ -1,6 +1,6 @@
 set nocompatible
 
-let g:python_recommended_style = 0
+#let g:python_recommended_style = 0
 filetype plugin indent on
 
 set nobk
